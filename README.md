@@ -12,5 +12,5 @@ In addition to being particularly obsessed with microeconometrics and R, I am a 
 
 ️Feel free to contact me:
 
-- 🦜 Twitter: @paubgood
+- 🦜 Twitter: [@paubgood](www.twitter.com/paubgood)
 - 📧 Mail: paaupereda@gmail.com
