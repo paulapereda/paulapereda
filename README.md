@@ -10,7 +10,7 @@ I work as the Lead of the Evaluation, Monitoring and Data Unit of Uruguay Innova
 📌 My main topics of interest are economic gender gaps and their mechanisms, early childhood development, and scientific communication, with particular emphasis on compelling data visualizations.
 ️
 
-In addition to being particularly obsessed with microeconometrics and R, I am a huge Taylor Swift fan (which can be [checked out here](https://paulapereda.com/2021/01/07/taylor-analisis-de-texto-sobre-la-discografia-de-taylor-swift-en-r/)), and I enjoy doing programming projects, drawing and painting!
+In addition to being particularly obsessed with microeconometrics and R, I am a huge Taylor Swift fan (which can be [checked out here](https://paulapereda.com/2025/10/07/taylor-ft-python-the-life-of-a-nerd-girl/) & [here](https://paulapereda.com/2021/01/07/taylor-analisis-de-texto-sobre-la-discografia-de-taylor-swift-en-r/)), and I enjoy doing programming projects, drawing and painting!
 
 ️Feel free to contact me:
 
